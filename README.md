@@ -1,4 +1,4 @@
-# ResourceRequest.github.io
+# ResourceRequest
 
 there are some data interface and resource files for personal use only. 
 All resources in the repositories are sourced from the Internet. 
