@@ -1,0 +1,22 @@
+{
+  "timestamp" : "1557244800",
+  "stock": {
+    "code": 3,
+    "name": "测试3",
+    "type": "A"
+  },
+  "transaction":[
+    { "timestamp" : "1556640000","type" : "buy", "value" : 1200},
+    { "timestamp" : "1556726400","type" : "sell", "value" : 200}
+  ],
+  "history":[
+    {"timestamp" : "1556640000", "price" : 15.63},
+    {"timestamp" : "1556726400", "price" : 13.43},
+    {"timestamp" : "1556812800", "price" : 16.74},
+    {"timestamp" : "1556899200", "price" : 16.45},
+    {"timestamp" : "1556985600", "price" : 19.54},
+    {"timestamp" : "1557072000", "price" : 17.24},
+    {"timestamp" : "1557158400", "price" : 18.32},
+    {"timestamp" : "1557244800", "price" : 20.52}
+  ]
+}

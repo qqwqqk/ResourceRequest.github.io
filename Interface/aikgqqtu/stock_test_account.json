@@ -1,0 +1,14 @@
+{
+  "timestamp" : "1557244800",
+  "account":{
+    "code" : 424,
+    "name" : "myaccount",
+    "base" : 20000,
+    "stock" :[
+      {"code" : 1 },
+      {"code" : 2 },
+      {"code" : 3 },
+      {"code" : 4 }
+    ]
+  }
+}
