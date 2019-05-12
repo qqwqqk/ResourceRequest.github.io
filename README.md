@@ -1,5 +1,3 @@
-# ResourceRequest
-
 there are some data interface and resource files for personal use only. 
 All resources in the repositories are sourced from the Internet. 
 If a violation of your rights, please submit new issue, the related content will be deleted as soon as possible.
