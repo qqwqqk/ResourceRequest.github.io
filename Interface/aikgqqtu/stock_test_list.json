@@ -1,0 +1,49 @@
+{
+    "name" : "myaccount",
+    "stock" :[
+        {
+            "code":"600299",
+            "name":"安迪苏",
+            "balance": 900,
+            "buyQuantity": 900,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"10485.000",
+            "cost":"11.456"
+        },
+        {
+            "code":"600300",
+            "name":"苏安迪",
+            "balance": 800,
+            "buyQuantity": 800,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"10003.000",
+            "cost":"12.315"
+        }
+        ,{
+            "code":"600301",
+            "name":"安苏迪",
+            "balance": 1000,
+            "buyQuantity": 1000,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"10535.000",
+            "cost":"10.312"
+        }
+        ,{
+            "code":"600302",
+            "name":"迪安苏",
+            "balance": 500,
+            "buyQuantity": 500,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"7457.000",
+            "cost":"14.159"
+        }
+    ]
+}
