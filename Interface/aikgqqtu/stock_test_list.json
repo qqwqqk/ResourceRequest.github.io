@@ -13,6 +13,72 @@
             "cost":"11.456"
         },
         {
+            "code":"432613",
+            "name":"花木成畦",
+            "balance": 700,
+            "buyQuantity": 700,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"5160.000",
+            "cost":"7.374"
+        },
+        {
+            "code":"574775",
+            "name":"销售模式",
+            "balance": 800,
+            "buyQuantity": 800,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"15160.000",
+            "cost":"17.896"
+        },
+        {
+            "code":"753864",
+            "name":"新地中心",
+            "balance": 1100,
+            "buyQuantity": 1100,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"13579.000",
+            "cost":"12.538"
+        },
+        {
+            "code":"372590",
+            "name":"夏松后",
+            "balance": 1000,
+            "buyQuantity": 1000,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"14863.000",
+            "cost":"15.264"
+        },
+        {
+            "code":"372590",
+            "name":"竭忠尽智",
+            "balance": 900,
+            "buyQuantity": 900,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"12759.000",
+            "cost":"14.764"
+        },
+        {
+            "code":"964656",
+            "name":"无暇顾及",
+            "balance": 800,
+            "buyQuantity": 800,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"9638.000",
+            "cost":"9.788"
+        },
+        {
             "code":"600300",
             "name":"苏安迪",
             "balance": 800,
