@@ -1,0 +1,36 @@
+{
+  "accounts":[
+    {
+      "code" : "001",
+      "name" : "夏雨来",
+      "balance" : 50000,
+      "availableQuantity": 30000,
+      "freezeQuantity": 20000,
+      "marketValue":"1000000"
+    },
+    {
+      "code" : "002",
+      "name" : "叶倩彤",
+      "balance" : 70000,
+      "availableQuantity": 50000,
+      "freezeQuantity": 20000,
+      "marketValue":"123457"
+    },
+    {
+      "code" : "003",
+      "name" : "斯马特",
+      "balance" : 40000,
+      "availableQuantity": 30000,
+      "freezeQuantity": 10000,
+      "marketValue":"79854"
+    },
+    {
+      "code" : "004",
+      "name" : "罗迪克",
+      "balance" : 40000,
+      "availableQuantity": 10000,
+      "freezeQuantity": 30000,
+      "marketValue":"81246"
+    }
+  ]
+}
