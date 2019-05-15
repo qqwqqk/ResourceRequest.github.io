@@ -1,5 +1,9 @@
 {
     "name" : "myaccount",
+    "code" : "642362333",
+    "availableQuantity": 300000,
+    "freezeQuantity": 700000,
+    "marketValue":"1000000",
     "stock" :[
         {
             "code":"600299",
