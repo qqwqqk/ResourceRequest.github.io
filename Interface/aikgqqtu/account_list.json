@@ -1,0 +1,30 @@
+[
+    {
+      "id" : "001",
+      "name" : "夏雨来",
+      "cashAccountNo" : "001",
+      "loginStatus": 1,
+      "info": "001"
+    },
+    {
+      "id" : "002",
+      "name" : "叶倩彤",
+      "cashAccountNo" : "002",
+      "loginStatus": 1,
+      "info": "002"
+    },
+    {
+      "id" : "003",
+      "name" : "斯马特",
+      "cashAccountNo" : "003",
+      "loginStatus": 1,
+      "info": "003"
+    },
+    {
+      "id" : "004",
+      "name" : "罗迪克",
+      "cashAccountNo" : "004",
+      "loginStatus": 1,
+      "info": "004"
+    }
+]

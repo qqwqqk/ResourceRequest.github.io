@@ -22,6 +22,17 @@
             "cost":"7.374"
         },
         {
+            "code":"002",
+            "name":"花木成畦",
+            "balance": 700,
+            "buyQuantity": 700,
+            "sellQuantity":0,
+            "availableQuantity":0,
+            "freezeQuantity":0,
+            "marketValue":"5160.000",
+            "cost":"7.374"
+        },
+        {
             "code":"003",
             "name":"销售模式",
             "balance": 800,
