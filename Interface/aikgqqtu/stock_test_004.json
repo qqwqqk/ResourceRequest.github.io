@@ -11,7 +11,7 @@
             "cost":"11.456"
         },
         {
-            "code":"003",
+            "code":"002",
             "name":"销售模式",
             "balance": 800,
             "buyQuantity": 800,
@@ -22,7 +22,7 @@
             "cost":"17.896"
         },
         {
-            "code":"004",
+            "code":"003",
             "name":"新地中心",
             "balance": 1100,
             "buyQuantity": 1100,
